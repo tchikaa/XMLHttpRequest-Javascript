@@ -1,2 +1,4 @@
 # XMLHttpRequest-Javascript
-Request GET, POST
+
+ Ajax REquest POST step by step
+ 
